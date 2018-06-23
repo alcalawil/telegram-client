@@ -1,5 +1,5 @@
 # telegramClient
 
-This client allow access to telegram channels as if we were connected from it app.
+This client allow access to our telegram account. Very useful for scraping
 
-Then we could to make scraping of any message
+Then we could make scraping of any message
