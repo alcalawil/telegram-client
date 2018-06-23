@@ -1,0 +1,12 @@
+{
+    "telegram": {
+        "phone": "",
+        "api_id": 111111,
+        "api_hash": ""
+    },
+    "hoursBefore": 72,
+    "timerInterval": 5,
+    "httpRequest":{
+        "host":""
+    }
+}

@@ -1,0 +1,18 @@
+# VSCode #
+##########
+.vscode
+
+# Sesiones #
+##########
+.session
+
+# Test #
+##########
+test.py
+
+# Private config #
+##########
+config-prod.json
+
+channels.txt
+
